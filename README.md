@@ -19,6 +19,7 @@
 <a href="https://github.com/boradesanket13/Swastha//pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/boradesanket13/Swastha?color=brightgreen"></a> 
 </div>
 
+![image](https://user-images.githubusercontent.com/79108273/210041870-86d91290-de9b-4497-8bd0-a0e9eaa343f5.jpg)
 
 # Introduction
 
@@ -30,11 +31,11 @@
 [Azure App Services](https://azure.microsoft.com/en-us/products/app-service/)
 
 ## Documentation 📃 
-[Kaggle](https://www.kaggle.com/docs)
-[Scikit Learn](https://scikit-learn.org/0.21/documentation.html)
-[Flask](https://flask.palletsprojects.com/en/2.2.x/)
-[Python](https://docs.python.org/3/)
-[Diabetes](https://www.who.int/news-room/fact-sheets/detail/diabetes)
+- [Kaggle](https://www.kaggle.com/docs)
+- [Scikit Learn](https://scikit-learn.org/0.21/documentation.html)
+- [Flask](https://flask.palletsprojects.com/en/2.2.x/)
+- [Python](https://docs.python.org/3/)
+- [Diabetes](https://www.who.int/news-room/fact-sheets/detail/diabetes)
 
 ## Minimum Requirements
 - Flask==2.0.2
