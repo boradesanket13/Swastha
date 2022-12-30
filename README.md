@@ -20,13 +20,6 @@
 </div>
 
 
-
-
-
-<div align="center">
-  
-
-
 # Introduction
 
 - Based on statistical data, the project will be able to inform the user if they have diabetes or not by entering certain parameters such as BMI, Glucose level, Insulin level, age, and so on.
